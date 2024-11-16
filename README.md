@@ -7,7 +7,7 @@ Soy Pedro Tamara, Ingeniero Industrial mas de 6 años de experiencia en sistemas
 ## Informacion de contactos
 
 * [Mi Github](https://github.com/Ptamara132)
-* [Mi Linkeding](www.linkedin.com/pedro-tamara-raimondi-601b57277)
+* [Mi Linkeding](https://www.linkedin.com/in/ptamara1312/)
 
 ## Mis notas de lectura:
 
