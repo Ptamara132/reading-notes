@@ -17,4 +17,4 @@ Cada error contiene una lección valiosa. Reflexiona sobre ellos para aprender y
 3. Celebra el progreso, no la perfección
 Valora cada pequeño paso que te acerca a tus metas. Reconocer tu progreso te mantiene motivado y enfocado.
 
-[Readme](./README.MD)
+* [Readme](./README.MD)
